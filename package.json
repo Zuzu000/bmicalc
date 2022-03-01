@@ -1,7 +1,7 @@
 {
   "name": "bmicalc",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://zuzu000.github.io/bmicalc/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
